@@ -200,7 +200,8 @@ img {
   border: none;
   min-height: 56px;
   min-width: 169px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   box-shadow: 0 4px 4px 0 #00000026;
   border-radius: 4px;
