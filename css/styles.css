@@ -241,11 +241,6 @@ img {
   padding: 120px 0;
 }
 
-.list-text {
-  display: flex;
-  gap: 24px;
-}
-
 .item-text {
   flex-basis: calc((100% - 72px) / 4);
 }
